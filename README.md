@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shift-lwazi
-- 👀 I’m interested in AI, information technology
-- 🌱 I’m currently learning an IT degree
-- 💞️ I’m looking to collaborate something, I'm new here 
+- 👀 I’m interested in Software Development, Cyber Security, Web security 
+- 🌱 UKZN Information Systems and Technology Graduate 
+- 💞️ I’m looking to collaborate with like-minded developers
 - 📫 How to reach me ...
 
 <!---
